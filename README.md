@@ -1,3 +1,8 @@
+USED BY TISHA PARMAR FOR GITHUB LEARNING PURPOSE
+
+
+
+
 # FastLogin
 
 ![A shield-shaped emblem with a bold lightning bolt on the left, resembling Minecraft blocks. To the right, "FastLogin" is written in teal, with the tagline: "Automatically detect and login premium Minecraft players"](https://github.com/user-attachments/assets/0788ef69-029b-465e-83a2-b8e7bccc6295 "FastLogin project logo.avif")
